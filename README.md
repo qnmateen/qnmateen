@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on RNA-Seq
+- 🔭 I’m a student of MS Research IIT Delhi, currently working on RNA-Seq 
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about computational biology
-- 📫 How to reach me: fb.com/itsqnm instagram.com/itsqnm 
 - ⚡ Hobbies: Photography, Walking.
 
 <!--
