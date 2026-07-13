@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=620&lines=Healthcare+AI+Engineer+%C2%B7+Founder;Published+in+Science+Advances+%F0%9F%A7%AC;From+the+lab+bench+to+production+AI+agents;Genomics+%E2%86%92+Deep+Learning+%E2%86%92+Agentic+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=620&lines=Healthcare+AI+Engineer;Published+in+Science+Advances;From+the+lab+bench+to+production+AI+agents;Genomics+%E2%86%92+Deep+Learning+%E2%86%92+Agentic+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,15 +27,15 @@
 
 <!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
 
-### 👋 About me
+### About me
 
 I started at the **lab bench** and ended up **building AI**. Functional-genomics research at **IIT Delhi**, deep-learning point-of-care diagnostics at **Harvard Medical School** (published in *Science Advances*), and now leading **healthcare AI automation and AI agents** in Toronto.
 
-- 🔬 **Healthcare AI/ML Specialist** — building **Heyliaa**, a team of AI agents that run a clinic front desk 24/7: answering & placing calls, booking, insurance verification, faxes, and intake
-- 🚀 **Building MindGaps** — leading technology to make mental-health support accessible
-- 🧭 **AI Strategy Advisor @ Vgenomics** — rare-disease genomic diagnostics
-- 🧬 **Published in _Science Advances_** — smartphone microfluidics + deep learning for rapid HCV detection
-- 💬 Ask me about **AI agents · LLMs · healthcare ML · genomics & RNA-seq**
+- **Healthcare AI/ML Specialist** — building **Heyliaa**, a team of AI agents that run a clinic front desk 24/7: answering & placing calls, booking, insurance verification, faxes, and intake
+- **Building MindGaps** — leading technology to make mental-health support accessible
+- **AI Strategy Advisor @ Vgenomics** — rare-disease genomic diagnostics
+- **Published in _Science Advances_** — smartphone microfluidics + deep learning for rapid HCV detection
+- Ask me about **AI agents · LLMs · healthcare ML · genomics & RNA-seq**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Science%20Advances-Published-5eead4?style=flat-square" />
@@ -48,7 +48,7 @@ I started at the **lab bench** and ended up **building AI**. Functional-genomics
 
 <!-- ─────────────────────────────  STACK  ───────────────────────────── -->
 
-### 🛠️ Tech I build with
+### Tech I build with
 
 **AI / ML**
 <p>
@@ -86,21 +86,21 @@ I started at the **lab bench** and ended up **building AI**. Functional-genomics
 
 <!-- ─────────────────────────────  PROJECTS  ───────────────────────────── -->
 
-### 🚀 Featured work
+### Featured work
 
 | Project | What it is |
 | :-- | :-- |
-| 🧬 **[Science Advances paper](https://www.science.org/doi/10.1126/sciadv.adt3803)** | Deep-learning smartphone microfluidics for rapid HCV detection — peer-reviewed, first-tier journal |
-| 🤖 **[ML & AI Portfolio](https://github.com/qnmateen/IIITB-PG-Diploma-in-Machine-Learning-and-AI-Projects)** | CycleGAN MRI translation, melanoma detection, gesture recognition (CNN+RNN), DQN — end-to-end ML projects |
-| 🔬 **[Single-cell Pipeline](https://github.com/qnmateen/singlecell-pipeline)** | Snakemake scRNA-seq pipeline in Python (Scanpy) & R (Seurat) |
-| ⚡ **[Parallel RNA-seq Pipeline](https://github.com/qnmateen/Parallel-End-to-End-RNA-seq-Pipeline-for-Read-Generation)** | Reproducible, multi-core end-to-end RNA-seq: raw reads → feature counts |
-| 🎙️ **[Strawberry Transcriber](https://github.com/qnmateen/strawberry-transcriber)** | Desktop Whisper app for batch audio/video transcription (TXT/SRT/VTT) |
+| **[Science Advances paper](https://www.science.org/doi/10.1126/sciadv.adt3803)** | Deep-learning smartphone microfluidics for rapid HCV detection — peer-reviewed, first-tier journal |
+| **[ML & AI Portfolio](https://github.com/qnmateen/IIITB-PG-Diploma-in-Machine-Learning-and-AI-Projects)** | CycleGAN MRI translation, melanoma detection, gesture recognition (CNN+RNN), DQN — end-to-end ML projects |
+| **[Single-cell Pipeline](https://github.com/qnmateen/singlecell-pipeline)** | Snakemake scRNA-seq pipeline in Python (Scanpy) & R (Seurat) |
+| **[Parallel RNA-seq Pipeline](https://github.com/qnmateen/Parallel-End-to-End-RNA-seq-Pipeline-for-Read-Generation)** | Reproducible, multi-core end-to-end RNA-seq: raw reads to feature counts |
+| **[Strawberry Transcriber](https://github.com/qnmateen/strawberry-transcriber)** | Desktop Whisper app for batch audio/video transcription (TXT/SRT/VTT) |
 
 ---
 
 <!-- ─────────────────────────────  STATS  ───────────────────────────── -->
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=qnmateen&show_icons=true&hide_border=true&title_color=5eead4&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
