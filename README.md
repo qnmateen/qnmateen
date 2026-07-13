@@ -31,10 +31,10 @@
 
 I started at the **lab bench** and ended up **building AI**. Functional-genomics research at **IIT Delhi**, deep-learning point-of-care diagnostics at **Harvard Medical School** (published in *Science Advances*), and now leading **healthcare AI automation and AI agents** in Toronto.
 
-- **Healthcare AI/ML Specialist** — building **Heyliaa**, a team of AI agents that run a clinic front desk 24/7: answering & placing calls, booking, insurance verification, faxes, and intake
-- **Building MindGaps** — leading technology to make mental-health support accessible
-- **AI Strategy Advisor @ Vgenomics** — rare-disease genomic diagnostics
-- **Published in _Science Advances_** — smartphone microfluidics + deep learning for rapid HCV detection
+- **Healthcare AI/ML Specialist.** Building **Heyliaa**, a team of AI agents that run a clinic front desk 24/7: answering and placing calls, booking, insurance verification, faxes, and intake
+- **Building MindGaps.** Leading technology to make mental-health support accessible
+- **AI Strategy Advisor @ Vgenomics.** Rare-disease genomic diagnostics
+- **Published in _Science Advances_.** Smartphone microfluidics and deep learning for rapid HCV detection
 - Ask me about **AI agents · LLMs · healthcare ML · genomics & RNA-seq**
 
 <p align="center">
@@ -90,8 +90,8 @@ I started at the **lab bench** and ended up **building AI**. Functional-genomics
 
 | Project | What it is |
 | :-- | :-- |
-| **[Science Advances paper](https://www.science.org/doi/10.1126/sciadv.adt3803)** | Deep-learning smartphone microfluidics for rapid HCV detection — peer-reviewed, first-tier journal |
-| **[ML & AI Portfolio](https://github.com/qnmateen/IIITB-PG-Diploma-in-Machine-Learning-and-AI-Projects)** | CycleGAN MRI translation, melanoma detection, gesture recognition (CNN+RNN), DQN — end-to-end ML projects |
+| **[Science Advances paper](https://www.science.org/doi/10.1126/sciadv.adt3803)** | Deep-learning smartphone microfluidics for rapid HCV detection. Peer-reviewed, first-tier journal |
+| **[ML & AI Portfolio](https://github.com/qnmateen/IIITB-PG-Diploma-in-Machine-Learning-and-AI-Projects)** | CycleGAN MRI translation, melanoma detection, gesture recognition (CNN+RNN), and DQN. End-to-end ML projects |
 | **[Single-cell Pipeline](https://github.com/qnmateen/singlecell-pipeline)** | Snakemake scRNA-seq pipeline in Python (Scanpy) & R (Seurat) |
 | **[Parallel RNA-seq Pipeline](https://github.com/qnmateen/Parallel-End-to-End-RNA-seq-Pipeline-for-Read-Generation)** | Reproducible, multi-core end-to-end RNA-seq: raw reads to feature counts |
 | **[Strawberry Transcriber](https://github.com/qnmateen/strawberry-transcriber)** | Desktop Whisper app for batch audio/video transcription (TXT/SRT/VTT) |
@@ -113,4 +113,4 @@ I started at the **lab bench** and ended up **building AI**. Functional-genomics
 
 ---
 
-<p align="center"><i>"From the lab bench to production AI — building for better health."</i></p>
+<p align="center"><i>"From the lab bench to production AI, building for better health."</i></p>
