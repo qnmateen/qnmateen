@@ -32,7 +32,7 @@
 I started at the **lab bench** and ended up **building AI**. Functional-genomics research at **IIT Delhi**, deep-learning point-of-care diagnostics at **Harvard Medical School** (published in *Science Advances*), and now leading **healthcare AI automation and AI agents** in Toronto.
 
 - 🔬 **AI/ML Specialist @ MarkiTech.AI** — building **Heyliaa**, a team of AI agents that run a clinic front desk 24/7, and **ARVO**, an autonomous healthcare agent
-- 🚀 **Co-founder & CTO @ MindGaps** — making mental-health support accessible
+- 🚀 **Building MindGaps** — leading technology to make mental-health support accessible
 - 🧭 **AI Strategy Advisor @ Vgenomics** — rare-disease genomic diagnostics
 - 🧬 **Published in _Science Advances_** — smartphone microfluidics + deep learning for rapid HCV detection
 - 💬 Ask me about **AI agents · LLMs · healthcare ML · genomics & RNA-seq**
